@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142916557382",
+    "project_id": "grocery-mart-c3401",
+    "storage_bucket": "grocery-mart-c3401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142916557382:android:93b08d25dc576e94ae4847",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142916557382-ire89h7f1f0n5lp2aldmck9r7i6l0bkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOihmVpkIx30h_uFDVuj3YiHvfz7rkGAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142916557382-ire89h7f1f0n5lp2aldmck9r7i6l0bkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
